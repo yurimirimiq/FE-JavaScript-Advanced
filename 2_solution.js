@@ -5,8 +5,8 @@ let user = {
     years: 21,
 };
 
-// 여기에 코드를 작성해주세요 sjandjfuqekd
-const user = [Name: "민서", age : 21, isAdmin : false]
+// 여기에 코드를 작성해주세요
+const {name : Name, years : age, isAdmin = false} = user;
 
 alert(Name); // "민서"
 alert(age); // 21
