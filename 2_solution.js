@@ -5,7 +5,7 @@ let user = {
     years: 21,
 };
 
-// 여기에 코드를 작성해주세요
+// 여기에 코드를 작성해주세요 sjandjfuqekd
 
 alert(Name); // "민서"
 alert(age); // 21
