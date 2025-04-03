@@ -10,3 +10,7 @@ class Person {
       console.log(`이름: ${this.name}, 취미: ${this.hobby}`);
     }
 }
+
+const p = new Person("유림"); 
+console.log("이름");
+console.log("취미");
