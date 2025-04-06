@@ -6,4 +6,3 @@ let user = {
   };
 
 //답 작성
-console.log()
